@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+table{
+    width: 80%;
+    margin: auto;
+    font-size: 1.4em;
+}
+
+td{
+    border-bottom: 1px dashed gray;
+    padding: 5px 0px;
+}
+
+td.even{
+    /* border-bottom: 2px dashed brown; */
+    background-color: lightgoldenrodyellow;
+}
+
+th{
+    border: 3px solid brown;
+}
